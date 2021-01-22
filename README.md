@@ -4,8 +4,8 @@ hey beautiful faces👋🏿, I'm Juned
 
 ▶️currently learning web devlopment🚀 with a cource[Scale with Web Devlopment] by @pate0672.
 
-▶️Love to connect and collaborate with you people on my 🚀.
+▶️Love to connect and collaborate with you people on my <a href="">Linkedin</a> 🚀.
 
-▶️Catch me on my instagram🚀 for useful CS content.
+▶️Catch me on my <a href="">Instagram</a>🚀 for useful CS content.
 
 ⚠️ Trying to turn thoughts into Code ⚠️
