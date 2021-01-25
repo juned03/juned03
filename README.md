@@ -3,7 +3,7 @@
 <ul>
   <li>▶️Persuing bachelor's in <b>Computer Science🚀</b> at RGPV university, Bhopal, M.P, India.</li>
 
-  <li>▶️currently learning <b>web devlopment🚀</b> with a cource[Scale with Web Devlopment] by <b>@pate0672.</b></li>
+  <li>▶️currently learning <b>Front-end Development</b></li>
 
   <li>▶️I'would Love to <b>connect and collaborate</b> with you people on my <b><a href="https://www.linkedin.com/in/juned-ali-khan-958b70204">Linkedin</a> 🚀.</b></li>
 
