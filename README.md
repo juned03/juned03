@@ -1,14 +1,13 @@
 <h1>hey beautiful faces👋🏿, I'm Juned</h1> 
 
 <ul>
+  <li>▶️Persuing bachelor's in <b>Computer Science🚀</b> at RGPV university, Bhopal, M.P, India.</li>
 
-▶️Persuing bachelor's in <b>Computer Science🚀</b> at RGPV university, Bhopal, M.P, India.
+  <li>▶️currently learning <b>web devlopment🚀</b> with a cource[Scale with Web Devlopment] by <b>@pate0672.</b></li>
 
-▶️currently learning <b>web devlopment🚀</b> with a cource[Scale with Web Devlopment] by <b>@pate0672.</b>
+  <li>▶️I'would Love to <b>connect and collaborate</b> with you people on my <b><a href="https://www.linkedin.com/in/juned-ali-khan-958b70204">Linkedin</a> 🚀.</b></li>
 
-▶️I'would Love to <b>connect and collaborate</b> with you people on my <b><a href="https://www.linkedin.com/in/juned-ali-khan-958b70204">Linkedin</a> 🚀.</b>
-
-▶️Catch me on my <b><a href="https://instagram.com/mr.programmerr_?igshid=r4oj32wdezmj">Instagram</a>🚀</b> for useful CS content.
+  <li>▶️Catch me on my <b><a href="https://instagram.com/mr.programmerr_?igshid=r4oj32wdezmj">Instagram</a>🚀</b> for useful CS content.</li>
 </ul>
 
 <h3>⚠️ Trying to turn thoughts into Code ⚠️</h3>
