@@ -1,4 +1,4 @@
-hey beautiful faces👋🏿, I'm Juned 
+<h1>hey beautiful faces👋🏿, I'm Juned</h1> 
 
 ▶️Persuing bachelor's in Computer Science🚀 at RGPV university, Bhopal, M.P, India.
 
