@@ -8,4 +8,4 @@
 
 ▶️Catch me on my <a href="https://instagram.com/mr.programmerr_?igshid=r4oj32wdezmj">Instagram</a>🚀 for useful CS content.
 
-⚠️ Trying to turn thoughts into Code ⚠️
+<h3>⚠️ Trying to turn thoughts into Code ⚠️</h3>
