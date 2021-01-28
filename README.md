@@ -7,7 +7,7 @@
 
   <li>▶️I'would Love to <b>connect and collaborate</b> with you people on my <b><a href="https://www.linkedin.com/in/juned-ali-khan-958b70204">Linkedin</a> 🚀.</b></li>
 
-  <li>▶️Catch me on my <b><a href="https://instagram.com/mr.programmerr_?igshid=r4oj32wdezmj"><img src="https://airequipmentllc.com/wp-content/uploads/2019/12/instagram-icon.png" height="25px" width="25px"></img></a>🚀</b> for useful CS content.</li>
+  <li>▶️Catch me on my <b><a href="https://instagram.com/mr.programmerr_?igshid=r4oj32wdezmj"><img src="https://airequipmentllc.com/wp-content/uploads/2019/12/instagram-icon.png" height="25px" width="25px"></img></a></b> for useful CS content.</li>
 </ul>
 
 <h3>⚠️ Trying to turn thoughts into Code ⚠️</h3>
