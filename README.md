@@ -5,7 +5,7 @@
 
   <li>▶️currently learning <b>Front-end Development</b></li>
 
-  <li>▶️I'would Love to <b>connect and collaborate</b> with you people on my <b><a href="https://www.linkedin.com/in/juned-ali-khan-958b70204">Linkedin</a> 🚀.</b></li>
+  <li>▶️I'would Love to <b>connect and collaborate</b> with you people on my <b><a href="https://www.linkedin.com/in/juned-ali-khan-958b70204"><img src="https://download.logo.wine/logo/LinkedIn/LinkedIn-Logo.wine.png"></img></a></b></li>
 
   <li>▶️Catch me on my <b><a href="https://instagram.com/mr.programmerr_?igshid=r4oj32wdezmj"><img src="https://airequipmentllc.com/wp-content/uploads/2019/12/instagram-icon.png" height="25px" width="25px"></img></a></b> for useful CS content.</li>
 </ul>
