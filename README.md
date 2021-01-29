@@ -2,7 +2,7 @@
   h1{
      text-align: center;
   }
-<styles>
+</styles>
   <h1>hey beautiful faces👋🏿, I'm Juned</h1>
 
 <ul>
