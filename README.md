@@ -1,4 +1,4 @@
-<h1>hey beautiful faces👋🏿, I'm Juned</h1> 
+<styles><h1>hey beautiful faces👋🏿, I'm Juned</h1> text-align: center; </styles>
 
 <ul>
   <li>▶️Persuing bachelor's in <b>Computer Science🚀</b> at RGPV university, Bhopal, M.P, India.</li>
