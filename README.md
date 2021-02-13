@@ -2,7 +2,7 @@
   <h1>hey beautiful faces👋🏿, I'm Juned</h1>
 
 <ul>
-  <li>▶️Persuing bachelor's in <b>Computer Science🚀</b> at RGPV university, Bhopal, M.P, India.</li>
+  <li>▶️Persuing bachelor's in <b>Computer Science🚀</b> at RGPV university, India.</li>
 
   <li>▶️currently learning <b>Front-end Development🚀</b></li>
 
