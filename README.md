@@ -63,9 +63,9 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" />
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<p><img width="90%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizankhan99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat&layout=compact" alt="faizankhan99" /></p>
+<p><img width="90%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juned03&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat&layout=compact" alt="juned03" /></p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<p>&nbsp;<img width="90%" align="center" src="https://github-readme-stats.vercel.app/api?username=faizankhan99&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="faizankhan99" /></p>
+<p>&nbsp;<img width="90%" align="center" src="https://github-readme-stats.vercel.app/api?username=juned03&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="juned03" /></p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=faizankhan99&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="faizankhan99" /></p>
 
