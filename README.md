@@ -47,8 +47,8 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h3 align="center">Connect with me:</h3>
 <p align="center" >
-<a href="https://linkedin.com/in/www.linkedin.com/in/faizan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/faizan7" height="30" width="40" /></a>
-<a href="https://instagram.com/mrfai_zan786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrfai_zan786" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/juned-a-958b70204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juned-a-958b70204/" height="30" width="40" /></a>
+<a href="https://instagram.com/juned24.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrfai_zan786" height="30" width="40" /></a>
 </p>
 
 
