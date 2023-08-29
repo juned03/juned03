@@ -27,14 +27,10 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 
 
 
-### 🌱 I’m from Gwalior, M.p, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">.
+### 🌱 I’m from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">.
 - 👨‍💻 All of my projects are available at [Portfolio 😊](https://faizankhan99.github.io)
 
 - 🌱 I’m currently learning *React Advanced*
-
- - 🔭 Individual Project [Myntra-Clone ](https://github.com/Faizankhan99/used-lace-1162.git)
-
-- 👯 Group Project 1 [Sephora-Clone](https://github.com/UrsTrulyAditya/Sephora-Clone.git)
 
 - 💬 Ask me about *Fronted*
 
