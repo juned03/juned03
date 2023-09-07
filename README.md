@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h1 align="center">Hi 👋, I'm Juned Ali Khan</h1>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<h3 align="center">Aspiring Full-stack Web Developer at Masai</h3>
+<h3 align="center">Experienced Full stack Developer</h3>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkirat&label=Profile%20views&color=0e75b6&style=flat" alt="Juned03" /> </p>
