@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juned</h1>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<h3 align="center">Frontend Developer | UI/UX Enthusiast</h3>
+<h3 align="center">Frontend Engineer | UI/UX Enthusiast</h3>
 <a align="center" href="mailto:alikhanjuned807@gmail.com"> <h5 align="center">📧alikhanjuned807@gmail.com </h5></a>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
