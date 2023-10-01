@@ -14,7 +14,7 @@
 
  ## About Me
 
-I'm a passionate Frontend Engineer with a strong interest in creating elegant, user-friendly web interfaces. My journey in web development began [mention your starting point], and I've been exploring the ever-evolving world of web technologies ever since.
+I'm a passionate Frontend Engineer with a strong interest in creating elegant, user-friendly web interfaces. My journey in web development began in 2018, and I've been exploring the ever-evolving world of web technologies ever since.
 
 - 🔭 I'm currently working at Hexaware Technologies on Tensai
 - 🌱 I'm constantly learning and staying up-to-date with the latest frontend technologies.
